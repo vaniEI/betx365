@@ -22,5 +22,5 @@ app.listen(3000, () => {
   
   // Print in the console when the
   // servers starts to listen on 3000
-  console.log("Listening to port 3000");
+  console.log("Listening to port 3000...HI!!");
 });
